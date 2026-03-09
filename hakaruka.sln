@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hakaruka", "hakaruka\hakaruka.csproj", "{CFA61B17-D074-4838-9887-F9D6E0093FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFA61B17-D074-4838-9887-F9D6E0093FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA61B17-D074-4838-9887-F9D6E0093FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA61B17-D074-4838-9887-F9D6E0093FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA61B17-D074-4838-9887-F9D6E0093FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9ADC474-0516-491F-8855-0CFDC8457F88}
+	EndGlobalSection
+EndGlobal
